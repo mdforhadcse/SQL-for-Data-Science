@@ -19,6 +19,18 @@
     </LogicalFolder>
     <LogicalFolder Name="Queries" Type="0" Sorted="true">
       <Items>
+        <FileNode Name="aggregate.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:FORHADPC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>FORHADPC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>aggregate.sql</FullPath>
+        </FileNode>
+        <FileNode Name="joining table.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:FORHADPC:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>FORHADPC</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>joining table.sql</FullPath>
+        </FileNode>
         <FileNode Name="Oracletable1.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:FORHADPC:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>FORHADPC</AssociatedConnSrvName>
