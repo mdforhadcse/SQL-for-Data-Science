@@ -20,7 +20,6 @@ Coinex,Coinex,DASH
 Gate,Gate,DASH
 Binance,BinanceK,DGB
 Gate,Gate,DGB
-Okx,Okx,DOGE
 Binance,BinanceA,DUSK
 Bybit,Bybit,DUSK
 Coinex,Coinex,DYDX
@@ -57,9 +56,6 @@ Binance,BinanceA,RSR
 Bybit,Bybit,RSR
 Binance,BinanceK,RUNE
 Gate,Gate,RUNE
-Coinex,Coinex,SHIB
-Okx,Okx,SHIB
-FTX,FTX,SHIB
 Okx,Okx,SLP
 Gate,Gate,SLP
 Coinex,Coinex,SNX
